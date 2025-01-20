@@ -1,0 +1,14 @@
+csv
+pandas
+numpy
+matplotlib
+plotly
+scipy
+seaborn
+jupyter
+ipykernel
+python-dateutil
+requests
+pytest
+uuid
+websockets
